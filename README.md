@@ -2,6 +2,8 @@
 
 **A lightweight retrieval layer for AI agents over personal second brains.**
 
+> Part of the [Institute of Artificial Absurdity](https://aizhiz.com/) notes on agent memory and personal knowledge bases. 相关随笔：[AI 时代的个人知识库，正在变成吃灰的收藏夹](https://aizhiz.com/zh/posts/2026-10-18-personal-knowledge-base-saved-stuff/)
+
 [中文版](README.zh-CN.md)
 
 ---
